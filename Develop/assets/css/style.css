@@ -37,12 +37,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* links in navigation */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -51,23 +51,41 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/*position images in section content*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*position images in section content*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*contentSection styles the main section content*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+.contentSection {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.contentSection img {
+    max-height: 200px;
+}
+
+.contentSection h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*benefits classes style the content in the aside section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -94,24 +112,6 @@ a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.contentSection {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.contentSection img {
-    max-height: 200px;
-}
-
-.contentSection h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
