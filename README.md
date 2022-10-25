@@ -1,2 +1,8 @@
-# Horiseon-Solutions-Week-1-Challenge
-UT-Bootcamp week 1 challenge
+# Challenge Week 1 - Horiseon Solutions
+## Project Description
+## Installation Steps
+None
+## How to Navigate Page
+
+## Credits
+
