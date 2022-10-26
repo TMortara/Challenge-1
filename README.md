@@ -1,12 +1,11 @@
 # Challenge Week 1 - Horiseon Solutions Accessibility Updates
 ## Project Description
-The Horiseon Solutions site was updated to include semantic elements, such as the navigation and aside tags, to ensure accessibility. 
+The Horiseon Solutions site has been updated to include semantic elements, such as navigation and aside tags, and to add alt text to images to ensure accessibility. The CSS file was also updated to consolidate properties. 
 ## Installation Steps
 None
 ## Deployed Site
-
 ## Navigating Site
-You can use the navigation bar at the top of the page to navigate to the Search Engine Optimization, Online Reputation Management, and Social Media sections of the page.  
+Use the top navigation bar to jump directly to the Search Engine Optimization, Online Reputation Management, and Social Media sections of the page.
 ## Credits
 ### Resources Used to Complete Project
 - [W3 Schools]https://www.w3schools.com/html/html5_semantic_elements.asp
