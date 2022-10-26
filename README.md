@@ -4,6 +4,7 @@ The Horiseon Solutions site has been updated to include semantic elements, such 
 ## Installation Steps
 None
 ## Deployed Site
+[Horiseon-Solutions-Accessibility]https://tmortara.github.io/Horiseon-Accesibility-Week-1/
 ## Navigating Site
 Use the top navigation bar to jump directly to the Search Engine Optimization, Online Reputation Management, and Social Media sections of the page.
 ## Credits
